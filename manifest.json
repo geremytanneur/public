@@ -1,0 +1,15 @@
+{
+  "name": "Gérémy Tanneur",
+  "short_name": "Gérémy",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4a90e2",
+  "icons": [
+    {
+      "src": "/icon.png",
+      "sizes": "396x396",
+      "type": "image/png"
+    }
+  ]
+}
