@@ -1,13 +1,13 @@
 {
   "name": "Gérémy Tanneur",
   "short_name": "Gérémy",
-  "start_url": "geremytanneur.fr",
+  "start_url": "https://geremytanneur.fr",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#4a90e2",
   "icons": [
     {
-      "src": "/icon.png",
+      "src": "https://geremytanneur.fr/icon.png",
       "sizes": "396x396",
       "type": "image/png"
     }
