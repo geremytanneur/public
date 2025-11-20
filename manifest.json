@@ -7,9 +7,7 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://geremytanneur.fr/icon.png",
-      "sizes": "396x396",
-      "type": "image/png"
+      "src": "https://geremytanneur.fr/signature.svg"
     }
   ]
 }
